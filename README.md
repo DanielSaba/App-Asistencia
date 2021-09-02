@@ -1,1 +1,1 @@
-https://git.heroku.com/app-asistenciaphp.git
+http://app-asistenciaphp.herokuapp.com
